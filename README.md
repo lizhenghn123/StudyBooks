@@ -9,14 +9,14 @@
 
 ## 目录
 
-* [C++](#C++)
-* [C++进阶](#C++进阶)
+* [Cpp](#C++)
+* [C++进阶](#进阶)
 * [数据库](#数据库)
 * [网络](#网络)
 * [架构、设计、工程](#架构、设计、工程)
 * [Linux](#Linux)
 * [Python](#Python)
-* [Git&GitBub](#Git&GitBub)
+* [Git&GitBub](#Git)
 
 ### C++
 * [C++11 - 维基百科，自由的百科全书]
@@ -30,7 +30,7 @@
 ### 网络
 * [C++11 - 维基百科，自由的百科全书]
 
-### 架构、设计、工程
+### 架构/设计/工程
 * [C++ 工程实践经验谈--陈硕]
 
 ### Linux
@@ -39,7 +39,7 @@
 ### Python
 * [Python核心编程第二版]
 
-### Git&GitBub 
+### Git 
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
