@@ -7,39 +7,41 @@ StudyBooks
 
 每个分类下尽可能上传文字版的pdf，以节省空间，否则只给出在线链接。
 
+----------
+
 ## 目录
 
-* [Cpp](#C++)
-* [C++进阶](#进阶)
-* [数据库](#数据库)
+* [C/C++](#cc)
+* [C++进阶](#cc进阶)
 * [网络](#网络)
-* [架构、设计、工程](#架构、设计、工程)
-* [Linux](#Linux)
-* [Python](#Python)
-* [Git&GitBub](#Git)
+* [数据库](#数据库)
+* [架构设计工程](#架构设计工程)
+* [Linux](#linux)
+* [Python](#python)
+* [Git](#git)
 
-### C++
+## C/C++
 * [C++11 - 维基百科，自由的百科全书]
+* [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial)   
 
-### C++进阶
-* [Effective C++中文版（第三版）]
+## C/C++进阶
+* [Effective C++中文版（第三版）]   
 
-### 数据库
+## 网络
+
+## 数据库
 * [Google MapReduce-英文版osdi04]
 
-### 网络
-* [C++11 - 维基百科，自由的百科全书]
-
-### 架构/设计/工程
+## 架构设计工程
 * [C++ 工程实践经验谈--陈硕]
 
-### Linux
+## Linux
 * [Bash 新手指南 ]
 
-### Python
+## Python
 * [Python核心编程第二版]
 
-### Git 
+## Git
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
@@ -48,6 +50,9 @@ StudyBooks
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [Mercurial 使用教程](http://mercurial.selenic.com/wiki/ChineseTutorial)
 * [HgInit (中文版)](http://bucunzai.net/hginit/)
+
+
+----------
 
 Created by lizhenghn@gmail.com 
 
