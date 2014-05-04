@@ -18,7 +18,7 @@ StudyBooks
 * [架构设计工程](#架构设计工程)
 * [Linux](#linux)
 * [Python](#python)
-* [Git](#git)
+* [版本管理](#版本管理)
 
 ## C/C++
 * [C++11 - 维基百科，自由的百科全书]
@@ -41,7 +41,7 @@ StudyBooks
 ## Python
 * [Python核心编程第二版]
 
-## Git
+## 版本管理
 * [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git 参考手册](http://gitref.justjavac.com)
 * [Pro Git](http://git-scm.com/book/zh)
