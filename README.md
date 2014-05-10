@@ -30,28 +30,28 @@ StudyBooks
 
 * [(C++11)C++11 - 维基百科，自由的百科全书]
 * [(C++11)深入理解C++11：C++ 11新特性解析与应用 迷你]
-* [C++标准程序库--自修教程与参考手册]
-* [C++程序设计原理与实践]
-* [C++程序设计语言_特别版]
-* [C++编程惯用法——高级程序员常用方法和技巧]
-* [C++编程规范-101条规则准则与最佳实践]
-* [C++语言的设计和演化]
-* [C++释难解惑]
-* [C和C++安全编码（中文版）]
-* [Effective C++中文版（第三版）]
+* [C++标准程序库--自修教程与参考手册](http://pan.baidu.com/s/1qWLNhaG)
+* [C++程序设计原理与实践](http://pan.baidu.com/s/1ntqfhPJ)
+* [C++程序设计语言_特别版](http://pan.baidu.com/s/1o6jX3iq)
+* [C++编程惯用法——高级程序员常用方法和技巧](http://pan.baidu.com/s/1i3sVhJZ)
+* [C++编程规范-101条规则准则与最佳实践](http://pan.baidu.com/s/1ntDfM21)
+* [C++语言的设计和演化](http://pan.baidu.com/s/1kT3a2dp)
+* [C++释难解惑](http://pan.baidu.com/s/1nt4ssrf)
+* [C和C++安全编码（中文版）](http://pan.baidu.com/s/1hqqVtp6)
+* [Effective C++中文版（第三版）](http://pan.baidu.com/s/1mghtKgg)
+* [More Effective C++ 中文版](http://pan.baidu.com/s/1gdijSIn)
 * [Effective STL中文版：50条有效使用STL的经验]
-* [Exceptional C++ Style(Herb Sutter).中文版]
-* [Exceptional C++中文版]
-* [From C++ to Objective-C-english]
+* [Exceptional C++ Style(Herb Sutter).中文版](http://pan.baidu.com/s/1qWCtFOC)
+* [Exceptional C++ 中文版](http://pan.baidu.com/s/1pLCHC)
+* [More Exceptional C++(中文版)](http://pan.baidu.com/s/1qWLNgZE)
+* [From C++ to Objective-C-english](http://pan.baidu.com/s/1o6LRolc)
 * [From C++ to Objective-C-中文版]
-* [Linux C编程一站式学习6.14--宋劲衫]
-* [More Effective C++ 中文版]
-* [More Exceptional C++(中文版)]
-* [从缺陷中学习C、C++]
-* [你必须知道的222个C++语言问题.范立锋.扫描版]
+* [Linux C编程一站式学习6.14--宋劲衫](http://pan.baidu.com/s/1bny7ga7)
+* [从缺陷中学习C、C++](http://pan.baidu.com/s/1c0GLTOs)
+* [你必须知道的222个C++语言问题.范立锋.扫描版](http://pan.baidu.com/s/1c03oHVE)
 * [标准C++库函数参考]
-* [深入学习：GNU C++ for Linux 编程技术]
-* [编写高质量代码  改善C++程序的150个建议.李健.扫描版]
+* [深入学习：GNU C++ for Linux 编程技术](http://pan.baidu.com/s/1dDkVKVB)
+* [编写高质量代码  改善C++程序的150个建议.李健.扫描版](http://pan.baidu.com/s/1pJlXxk3)
 
 ## C/C++进阶
 * [Accelerated C++中文版 ]
@@ -73,15 +73,15 @@ StudyBooks
 * [C++ 并发编程指南](https://github.com/forhappy/A-Detailed-Cplusplus-Concurrency-Tutorial) 
 
 ## 网络相关
-* [图解TCP_IP_第5版]
-* [深入理解Nginx模块开发与架构解析]
+* [图解TCP_IP_第5版](http://pan.baidu.com/s/1o6181v0)
+* [深入理解Nginx模块开发与架构解析](http://pan.baidu.com/s/1c0zQUyO)
 
 ## 数据库
 * [Google MapReduce-中文版]
 * [Google MapReduce-英文版osdi04]
 * [NoSQL数据库笔谈]
 * [The Google File System]
-* [[高性能MySQL(第2版)中文版].施瓦茨.扫描版]
+* [高性能MySQL(第2版)中文版.施瓦茨.扫描版](http://pan.baidu.com/s/1zpaWY)
 
 ### Hadoop
 * [Hadoop 2.0基本架构与发展趋势]
